@@ -1,3 +1,3 @@
-module github.com/gen2brain/go-fitz
+module github.com/fincognition/go-fitz
 
-go 1.20
+go 1.22.1
